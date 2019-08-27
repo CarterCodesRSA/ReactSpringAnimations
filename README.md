@@ -20,7 +20,7 @@ Start the app by running the start script
 npm run start
 ```
 
-This will open a local instance on [http://localhost:3000/] (http://localhost:3000/)
+This will open a local instance on (http://localhost:3000/)
 
 ## Contributing
 
