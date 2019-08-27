@@ -2,6 +2,8 @@
 
 react-spring is a spring-physics based animation library that should cover most of your UI related animation needs.
 
+That is a simple app based of a layer component which renders according to a initial fade in and a final toggle component.
+
 ## Installation
 
 Use the package manager [npm](https://www.npmjs.com/) to install related dependencies.
@@ -18,7 +20,7 @@ Start the app by running the start script
 npm run start
 ```
 
-This will open a local instance on [http://localhost:3000/]
+This will open a local instance on [http://localhost:3000/] (http://localhost:3000/)
 
 ## Contributing
 
